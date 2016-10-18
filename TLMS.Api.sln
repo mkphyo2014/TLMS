@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Api", "TLMS.Api\TLMS.Api.csproj", "{4CB3DB00-A8EB-44FA-8771-608D76D97CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Common", "TLMS.Common\TLMS.Common.csproj", "{DE8F836B-E131-44B4-8D75-7EE814547CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.ServiceManager", "TLMS.ServiceManager\TLMS.ServiceManager.csproj", "{2F576AC3-2850-407D-89F8-72E52B213CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Entity", "TLMS.Entity\TLMS.Entity.csproj", "{E7569DD6-56CB-47FB-BA2D-B145B0A0C280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Tests", "TLMS.Tests\TLMS.Tests.csproj", "{F21C3139-D1E2-4BCE-B59D-71C5773888B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Infrastructure", "TLMS.Infrastructure\TLMS.Infrastructure.csproj", "{AC605A60-78A1-44A5-95D9-B647DB5B392D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB3DB00-A8EB-44FA-8771-608D76D97CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB3DB00-A8EB-44FA-8771-608D76D97CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB3DB00-A8EB-44FA-8771-608D76D97CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB3DB00-A8EB-44FA-8771-608D76D97CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8F836B-E131-44B4-8D75-7EE814547CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8F836B-E131-44B4-8D75-7EE814547CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8F836B-E131-44B4-8D75-7EE814547CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8F836B-E131-44B4-8D75-7EE814547CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F576AC3-2850-407D-89F8-72E52B213CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F576AC3-2850-407D-89F8-72E52B213CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F576AC3-2850-407D-89F8-72E52B213CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F576AC3-2850-407D-89F8-72E52B213CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7569DD6-56CB-47FB-BA2D-B145B0A0C280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7569DD6-56CB-47FB-BA2D-B145B0A0C280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7569DD6-56CB-47FB-BA2D-B145B0A0C280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7569DD6-56CB-47FB-BA2D-B145B0A0C280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21C3139-D1E2-4BCE-B59D-71C5773888B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21C3139-D1E2-4BCE-B59D-71C5773888B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21C3139-D1E2-4BCE-B59D-71C5773888B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21C3139-D1E2-4BCE-B59D-71C5773888B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC605A60-78A1-44A5-95D9-B647DB5B392D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC605A60-78A1-44A5-95D9-B647DB5B392D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC605A60-78A1-44A5-95D9-B647DB5B392D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC605A60-78A1-44A5-95D9-B647DB5B392D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
