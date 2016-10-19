@@ -44,9 +44,10 @@ namespace TLMS.Api
 
             var dlls = Directory.EnumerateFiles(executingFolder, "*.dll");
             var assemblies = dlls.Select(Assembly.LoadFrom);
-            var toccoAssemblies = assemblies.Where(a => a.FullName.StartsWith("TLMS"));
+            var tlmsAssemblies = assemblies.Where(a => a.FullName.StartsWith("TLMS"));
 
-            var ipluginTypes = toccoAssemblies.SelectMany(a => a.GetTypes()).Where(t => t.IsClass && t.GetInterfaces().Contains(typeof(IPlugin)));
+            var ipluginTypes = tlmsAssemblies
+                .SelectMany(a => a.GetTypes()).Where(t => t.IsClass && t.GetInterfaces().Contains(typeof(IPlugin)));
             var selectedPluginsConfig = _appSettings.Get<List<string>>("app.plugins");
 
             var selectedPlugins = ipluginTypes.Where(x => selectedPluginsConfig.Any(y => x.Name.Contains(y)));

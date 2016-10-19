@@ -223,12 +223,14 @@ C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\ServiceStack.OrmLite.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\ServiceStack.OrmLite.SqlServer.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\ServiceStack.Text.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\StructureMap.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\StructureMap.Net4.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\System.Spatial.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.Common.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.Entity.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.ServiceManager.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.Tests.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.Infrastructure.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\NodaTime.Serialization.ServiceStackText.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.Common.pdb
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.Entity.pdb
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.ServiceManager.pdb
@@ -248,8 +250,12 @@ C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\ServiceStack.Client.xml
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\ServiceStack.Common.xml
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\ServiceStack.OrmLite.xml
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\ServiceStack.Text.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\StructureMap.pdb
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\StructureMap.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\StructureMap.Net4.pdb
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\System.Spatial.xml
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\TLMS.Infrastructure.pdb
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\NodaTime.Serialization.ServiceStackText.xml
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\de\Microsoft.Data.Edm.resources.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\es\Microsoft.Data.Edm.resources.dll
 C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Api\bin\fr\Microsoft.Data.Edm.resources.dll

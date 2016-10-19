@@ -1,8 +1,8 @@
 using NodaTime;
 using ServiceStack.Configuration;
-using TLMS.Infrastructure;
+using TLMS.Infrastructure.Domain;
 
-namespace TLMS.Infrastructure
+namespace TLMS.Infrastructure.Init
 {
     public class AppClock : IAppClock
     {

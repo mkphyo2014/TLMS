@@ -3,16 +3,14 @@ using System.Configuration;
 using System.Linq;
 using System.Web;
 using NLog.Config;
-using NLog.Targets.Wrappers;
 using ServiceStack.Configuration;
 using ServiceStack.Logging;
 using ServiceStack.Logging.NLogger;
 using ServiceStack.Text;
 using LogManager = ServiceStack.Logging.LogManager;
 using NLOG = NLog;
-using TLMS.Api;
 
-namespace Tocco.Orion.Sentinel.Api
+namespace TLMS.Api
 {
     public class Global : HttpApplication
     {

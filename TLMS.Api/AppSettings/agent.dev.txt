@@ -1,0 +1,16 @@
+﻿#info @ https://github.com/ServiceStack/ServiceStack/wiki/AppSettings
+
+#app
+app.apiName TLMS Server Side DEMO API
+app.IANATimeZone Asia/Singapore
+app.currency SGD
+app.culture en-US
+app.plugins Infrastructure,TLMS
+
+
+
+#emails
+emails.toList [abc@abc.com,def@def.com,ghi@ghi.com]
+
+
+#azure

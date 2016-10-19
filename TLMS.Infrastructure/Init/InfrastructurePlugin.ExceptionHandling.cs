@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using ServiceStack;
 using StructureMap;
-using TLMS.Infrastructure;
+using TLMS.Infrastructure.Infra;
 
-namespace TLMS.Infrastructure
+namespace TLMS.Infrastructure.Init
 {
     public partial class InfrastructurePlugin
     {

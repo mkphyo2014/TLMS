@@ -1,8 +1,9 @@
 ﻿using ServiceStack.Configuration;
 using StructureMap;
-using TLMS.Infrastructure;
+using TLMS.Infrastructure.Domain;
+using TLMS.Infrastructure.Infra;
 
-namespace TLMS.Infrastructure
+namespace TLMS.Infrastructure.Init
 {
     public class InfrastructureInit : IInit
     {

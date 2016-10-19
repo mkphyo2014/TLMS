@@ -1,6 +1,7 @@
 ﻿using ServiceStack.Configuration;
 using TLMS.Infrastructure;
 using StructureMap;
+using TLMS.Infrastructure.Infra;
 
 namespace TLMS.Init
 {
@@ -13,3 +14,4 @@ namespace TLMS.Init
         }
     }
 }
+

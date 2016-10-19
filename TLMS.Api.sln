@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Entity", "TLMS.Entity\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Tests", "TLMS.Tests\TLMS.Tests.csproj", "{F21C3139-D1E2-4BCE-B59D-71C5773888B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Infrastructure", "TLMS.Infrastructure\TLMS.Infrastructure.csproj", "{AC605A60-78A1-44A5-95D9-B647DB5B392D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLMS.Infrastructure", "TLMS.Infrastructure\TLMS.Infrastructure.csproj", "{6876E85F-1AAB-49C2-92A4-76BF29531C38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{F21C3139-D1E2-4BCE-B59D-71C5773888B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F21C3139-D1E2-4BCE-B59D-71C5773888B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F21C3139-D1E2-4BCE-B59D-71C5773888B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC605A60-78A1-44A5-95D9-B647DB5B392D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC605A60-78A1-44A5-95D9-B647DB5B392D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC605A60-78A1-44A5-95D9-B647DB5B392D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC605A60-78A1-44A5-95D9-B647DB5B392D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6876E85F-1AAB-49C2-92A4-76BF29531C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6876E85F-1AAB-49C2-92A4-76BF29531C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6876E85F-1AAB-49C2-92A4-76BF29531C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6876E85F-1AAB-49C2-92A4-76BF29531C38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

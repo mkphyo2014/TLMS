@@ -3,7 +3,7 @@ using ServiceStack.Configuration;
 using ServiceStack.Logging;
 using StructureMap;
 
-namespace TLMS.Infrastructure
+namespace TLMS.Infrastructure.Init
 {
     public class StructureMapContainerAdapter : IContainerAdapter
     {

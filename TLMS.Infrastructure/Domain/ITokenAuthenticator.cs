@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace TLMS.Infrastructure
+namespace TLMS.Infrastructure.Domain
 {
     public interface ITokenAuthenticator
     {

@@ -1,6 +1,6 @@
 ﻿using NodaTime;
 
-namespace TLMS.Infrastructure
+namespace TLMS.Infrastructure.Domain
 {
     
     public interface IAppClock : IClock
