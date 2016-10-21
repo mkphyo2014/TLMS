@@ -3,6 +3,7 @@ using ServiceStack.Configuration;
 using ServiceStack.Data;
 using ServiceStack.OrmLite;
 using StructureMap;
+using TLMS.Entity.Orm;
 using TLMS.Infrastructure.Infra;
 
 namespace TLMS.ServiceManager.Init
@@ -19,8 +20,12 @@ namespace TLMS.ServiceManager.Init
         {
             using (var db = connectionFac.OpenDbConnection())
             {
+                db.CreateTableIfNotExists<Allocation>();
                 db.CreateTableIfNotExists<Course>();
+                db.CreateTableIfNotExists<Faculty>();
+                db.CreateTableIfNotExists<Term>();
+                
             }
-        }s
+        }
     }
 }

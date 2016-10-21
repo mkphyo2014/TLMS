@@ -14,7 +14,10 @@ namespace TLMS.ServiceManager.ApiServices
             return await TLMSController.Ping(request);
         }
 
-
+        public async Task<TLMSCreateCourseResponse> Post(TLMSCreateCourseRequest request)
+        {
+            return await TLMSController.Create(request);
+        }
 
     }
 

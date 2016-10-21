@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using NodaTime;
 using TLMS.Entity.Dto;
+using TLMS.Entity.Orm;
 using TLMS.Infrastructure.Domain;
 using TLMS.ServiceManager.Repo;
 
@@ -28,7 +29,7 @@ namespace TLMS.ServiceManager.Controller
         public async Task<HelloResponse> Ping(HelloRequest request)
         {
 
-            //await _tlmsRepository.Create(newUser);
+            
             string s = request.InputMessage;
 
             return new HelloResponse
@@ -37,5 +38,39 @@ namespace TLMS.ServiceManager.Controller
             };
         }
 
+        public async Task<TLMSCreateCourseResponse> Create(TLMSCreateCourseRequest request)
+        {
+            var sub = Guid.NewGuid().ToString();
+            var newCourse = new Course
+            {
+                AllocationSub = sub,
+                CourseCd = request.CourseCd,
+                CourseTitle = request.CourseTitle,
+                School = request.School,
+                ProgrammeLevel = request.ProgrammeLevel,
+                Programme = request.Programme,
+                CourseType = request.CourseType,
+                CourseArea = request.CourseArea,
+                CourseUnit = request.CourseUnit,
+                Remarks = request.Remarks
+            };
+
+            await _tlmsRepository.Create(newCourse);
+
+            return new TLMSCreateCourseResponse
+            {
+                AllocationSub = sub,
+                CourseCd = newCourse.CourseCd,
+                CourseTitle = newCourse.CourseTitle,
+                School = newCourse.School,
+                ProgrammeLevel = newCourse.ProgrammeLevel,
+                Programme = newCourse.Programme,
+                CourseType = newCourse.CourseType,
+                CourseArea = newCourse.CourseArea,
+                CourseUnit = newCourse.CourseUnit,
+                Remarks = newCourse.Remarks
+            };
+           
+        }
     }
 }

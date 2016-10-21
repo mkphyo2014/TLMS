@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using ServiceStack.Data;
 using ServiceStack.OrmLite;
+using TLMS.Entity.Orm;
 
 namespace TLMS.ServiceManager.Repo
 {
@@ -16,9 +17,14 @@ namespace TLMS.ServiceManager.Repo
         }
 
 
-        public Task<object> Create(object obj)
+        public async Task<Course> Create(Course course)
         {
-            throw new NotImplementedException();
+            using (var db = _dbConnectionFactory.OpenDbConnection())
+            {
+                await db.SaveAsync(course);
+
+            }
+            return course;
         }
 
         public Task<object> Read(object obj)

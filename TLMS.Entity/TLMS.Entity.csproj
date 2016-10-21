@@ -81,9 +81,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dto\HelloRequest.cs" />
-    <Compile Include="Orm\Allocations.cs" />
+    <Compile Include="Dto\TLMSCreateCourseRequest.cs" />
+    <Compile Include="Orm\Allocation.cs" />
     <Compile Include="Orm\Course.cs" />
     <Compile Include="Orm\Faculty.cs" />
+    <Compile Include="Orm\Term.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
