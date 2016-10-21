@@ -29,11 +29,11 @@ namespace TLMS.ServiceManager.Controller
         {
 
             //await _tlmsRepository.Create(newUser);
-
+            string s = request.InputMessage;
 
             return new HelloResponse
             {
-                Message = "Successful!"
+                Message = "Successful! Your input was " + s
             };
         }
 

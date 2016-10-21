@@ -8,7 +8,7 @@ namespace TLMS.Entity.Dto
 {
     public class HelloRequest
     {
-        
+        public string InputMessage { get; set; }
     }
 
     public class HelloResponse

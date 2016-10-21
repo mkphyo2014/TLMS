@@ -18,29 +18,6 @@ c:\Users\Shraddha\documents\visual studio 2015\Projects\TLMS.Api\TLMS.Common\obj
 c:\Users\Shraddha\documents\visual studio 2015\Projects\TLMS.Api\TLMS.Common\obj\Debug\TLMS.Common.dll
 c:\Users\Shraddha\documents\visual studio 2015\Projects\TLMS.Api\TLMS.Common\obj\Debug\TLMS.Common.pdb
 c:\Users\Shraddha\documents\visual studio 2015\Projects\TLMS.Api\TLMS.Common\bin\Debug\StructureMap.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\TLMS.Common.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\TLMS.Common.pdb
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\NodaTime.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Client.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Common.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Interfaces.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.OrmLite.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Text.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.Net4.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\NodaTime.xml
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.xml
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Client.xml
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Common.xml
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.OrmLite.xml
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Text.xml
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.pdb
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.xml
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.Net4.pdb
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\obj\Debug\TLMS.Common.dll
-C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\obj\Debug\TLMS.Common.pdb
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Common\bin\Debug\TLMS.Common.dll
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Common\bin\Debug\TLMS.Common.pdb
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Common\bin\Debug\NodaTime.dll
@@ -65,3 +42,27 @@ C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Common\bin\Debug\StructureMap.Net4.pdb
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Common\obj\Debug\TLMS.Common.csprojResolveAssemblyReference.cache
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Common\obj\Debug\TLMS.Common.dll
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Common\obj\Debug\TLMS.Common.pdb
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\TLMS.Common.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\TLMS.Common.pdb
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\NodaTime.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Client.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Common.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Text.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.Net4.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\NodaTime.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Client.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Common.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\ServiceStack.Text.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.pdb
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.xml
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\bin\Debug\StructureMap.Net4.pdb
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\obj\Debug\TLMS.Common.csprojResolveAssemblyReference.cache
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\obj\Debug\TLMS.Common.dll
+C:\Users\Shraddha\Source\Repos\TLMS\TLMS.Common\obj\Debug\TLMS.Common.pdb
