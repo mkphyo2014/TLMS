@@ -82,6 +82,8 @@
   <ItemGroup>
     <Compile Include="Dto\HelloRequest.cs" />
     <Compile Include="Orm\Allocations.cs" />
+    <Compile Include="Orm\Course.cs" />
+    <Compile Include="Orm\Faculty.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

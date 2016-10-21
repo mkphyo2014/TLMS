@@ -19,8 +19,8 @@ namespace TLMS.ServiceManager.Init
         {
             using (var db = connectionFac.OpenDbConnection())
             {
-                db.CreateTableIfNotExists<Object>();
+                db.CreateTableIfNotExists<Course>();
             }
-        }
+        }s
     }
 }
