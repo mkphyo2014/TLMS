@@ -386,3 +386,6 @@ C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Api\obj\Debug\TLMS.Api.dll
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Api\obj\Debug\TLMS.Api.pdb
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Api\bin\NodaTime.Serialization.ServiceStackText.dll
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Api\bin\NodaTime.Serialization.ServiceStackText.xml
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Api\bin\ServiceStack.OrmLite.Sqlite.Windows.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Api\bin\System.Data.SQLite.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Api\bin\System.Data.SQLite.xml

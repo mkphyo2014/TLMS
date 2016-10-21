@@ -116,3 +116,6 @@ C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.ServiceManager\bin\Debug\StructureMap.
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.ServiceManager\bin\Debug\StructureMap.xml
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.ServiceManager\bin\Debug\StructureMap.Net4.pdb
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.ServiceManager\bin\Debug\NodaTime.Serialization.ServiceStackText.xml
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.ServiceManager\bin\Debug\ServiceStack.OrmLite.Sqlite.Windows.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.ServiceManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.ServiceManager\bin\Debug\System.Data.SQLite.xml

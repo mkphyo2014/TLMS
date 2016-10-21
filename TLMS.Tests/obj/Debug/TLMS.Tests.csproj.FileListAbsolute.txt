@@ -124,3 +124,6 @@ C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Tests\obj\Debug\TLMS.Tests.dll
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Tests\obj\Debug\TLMS.Tests.pdb
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Tests\bin\Debug\NodaTime.Serialization.ServiceStackText.dll
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Tests\bin\Debug\NodaTime.Serialization.ServiceStackText.xml
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Tests\bin\Debug\ServiceStack.OrmLite.Sqlite.Windows.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Tests\bin\Debug\System.Data.SQLite.xml

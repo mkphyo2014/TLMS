@@ -52,3 +52,12 @@ C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\StructureMap.
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\obj\Debug\TLMS.Infrastructure.csprojResolveAssemblyReference.cache
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\obj\Debug\TLMS.Infrastructure.dll
 C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\obj\Debug\TLMS.Infrastructure.pdb
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\ServiceStack.OrmLite.Sqlite.Windows.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\System.Data.SQLite.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shraddha\Source\Repos\TLMS2\TLMS.Infrastructure\bin\Debug\System.Data.SQLite.xml
