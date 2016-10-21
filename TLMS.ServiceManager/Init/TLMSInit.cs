@@ -1,16 +1,17 @@
 ﻿using ServiceStack.Configuration;
-using TLMS.Infrastructure;
 using StructureMap;
 using TLMS.Infrastructure.Infra;
+using TLMS.ServiceManager.Controller;
+using TLMS.ServiceManager.Repo;
 
-namespace TLMS.Init
+namespace TLMS.ServiceManager.Init
 {
     public class TLMSInit : IInit
     {
         public void Init(IContainer container, IAppSettings appSettings)
         {
-            //container.Configure(c => c.For<IAuthManagementRepository>().Singleton().Use<AuthManagementRepository>());
-            //container.Configure(c => c.For<AuthManagementController>().Singleton().Use<AuthManagementController>());
+            container.Configure(c => c.For<ITLMSRepository>().Singleton().Use<TLMSRepository>());
+            container.Configure(c => c.For<TLMSController>().Singleton().Use<TLMSController>());
         }
     }
 }

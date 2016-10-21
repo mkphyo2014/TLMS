@@ -106,7 +106,7 @@ namespace TLMS.Infrastructure.Init
                 {
                     Scan(scan =>
                     {
-                        scan.AssembliesFromApplicationBaseDirectory(a => a.FullName.StartsWith("TLMS") && a.FullName.Contains("Api"));
+                        scan.AssembliesFromApplicationBaseDirectory(a => a.FullName.StartsWith("TLMS"));
                         //scan.AssembliesFromApplicationBaseDirectory();
                         scan.AddAllTypesOf<IInit>();
                         scan.AddAllTypesOf<IPostInit>();
